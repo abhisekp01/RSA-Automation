@@ -1,0 +1,1 @@
+{"uuid":"5afff1bd-3736-460a-a643-a20f10498d24","children":["2d6e67ef-f58d-481b-ac08-fe89a1f6fe21"],"befores":[{"name":"Hooks1.hooks.setUp()","status":"passed","statusDetails":{"known":false,"muted":false,"flaky":false},"stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1727697510780,"stop":1727697512181}],"afters":[],"start":1727697510780,"stop":1727697512181}
